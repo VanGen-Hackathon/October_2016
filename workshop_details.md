@@ -62,7 +62,7 @@ _Jake Lever_
 How easy is it to build a new knowledgebase from scratch for a particular biological problem? I'll explore why you might want to do this and what technology exists for this problem. I'll focus on our approach using the VERSE tool and the concepts behind it.
 
 Estimated time: 20-30 minutes
-Slides: Available later
+Slides: [Google Slides](https://docs.google.com/presentation/d/1ACbneFqtscYD-cQ5Y2eNscyKImQxCUBwhgijRd3Opcg)
 
 ### The ENCODE Encyclopedia: The Ultimate User's Guide
 _Jill E. Moore_
