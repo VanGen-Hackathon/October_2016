@@ -55,7 +55,7 @@ If you tweet, please use #Hackseq16
 | 3:30 PM | Continue working in teams | LSI, UBC |
 | 5:30 PM | Daily summary by teams and wrap-up | LSI, UBC |
 
-**Workshops and Talks (Room 1410)** - see [more info](workshop_details.md#sunday)
+**Workshops and Talks (Room 1416)** - see [more info](workshop_details.md#sunday)
 
 | Time | Topic | Slides |
 |------|-------|--------|
