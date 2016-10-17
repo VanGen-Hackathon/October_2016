@@ -59,7 +59,7 @@ If you tweet, please use #Hackseq16
 
 | Time | Topic | Slides |
 |------|-------|--------|
-| 11:00 AM - 12:00 PM | Bioinformatic solutions for variant calling within segmental duplications | Available later |
+| 11:00 AM - 12:00 PM | Bioinformatic solutions for variant calling within segmental duplications | [presentation slides] (https://drive.google.com/file/d/0BzEv14PEB1zeVWhLbS1ZNENNdFU/view?usp=sharing) |
 | 2:00 PM - 3:30 PM | Making R packages accessible to non-programmer collaborators using the VisRseq platform | [presentation slides](https://www.dropbox.com/s/t2cnvstn5iyq7qn/MCM2016_VisRseq_Slides.pdf?dl=1) and [workshop materials](https://github.com/hyounesy/bioc2016.visrseq/blob/master/vignettes/bioc2016.visrseq.pdf) |
 
 ## Monday October 17
