@@ -82,5 +82,5 @@ If you tweet, please use #Hackseq16
 
 | Time | Topic | Slides |
 |------|-------|--------|
-| 10:30 AM - 10:55 AM | Can My Computer Read Those Papers For Me? | [Slides](https://docs.google.com/presentation/d/1ACbneFqtscYD-cQ5Y2eNscyKImQxCUBwhgijRd3Opcg) |
-| 11:00 AM - 11:30 AM | The ENCODE Encyclopedia: The Ultimate User's Guide | Available later |
+| 11:00 AM - 11:25 AM | Can My Computer Read Those Papers For Me? | [Slides](https://docs.google.com/presentation/d/1ACbneFqtscYD-cQ5Y2eNscyKImQxCUBwhgijRd3Opcg) |
+| 11:30 AM - 12:00 AM | The ENCODE Encyclopedia: The Ultimate User's Guide | Available later |
