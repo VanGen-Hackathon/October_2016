@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +41,12 @@
      id="namedview274"
      showgrid="false"
      inkscape:zoom="0.90819047"
-     inkscape:cx="461.53142"
+     inkscape:cx="274.89656"
      inkscape:cy="313.35749"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g7939"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -2950,7 +2950,7 @@
            width="332.52936"
            id="rect4871-7-3-6" /></flowRegion><flowPara
          id="flowPara7933"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;fill:#ffffff">Distribution of Subjective Experience Ratings</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;fill:#ffffff">Kernel Density of Subjective Experience Ratings</flowPara><flowPara
          id="flowPara7937"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;fill:#ffffff">of Participants</flowPara></flowRoot>  </g>
 </svg>
