@@ -1,13 +1,13 @@
-### MegaBase:
+### GigaBase:
 1 per line; max(height,width) = 500,800 px
 
-#### KiloBase:
+#### MegaBase:
 2 per line; max(height,width) = 400,400 px
 
-##### BasePair:
+##### KiloBase:
 3 per line; max(height,width) = 300,300 px
 
-###### Nucleotide:
+###### BasePair
 4 per line; max(height,width) = 200,200 px
 1. bioinformatics.ca:
 http://bioinformatics.ca/workshops/2016
