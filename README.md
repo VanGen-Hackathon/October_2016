@@ -12,7 +12,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## Steering Committee members
 
-[Artem Babaian](http://www.JobsInScience.ca) / University of British Columbia /(ababaian AT bccrc DOT com)
+[Artem Babaian](http://www.JobsInScience.ca) / University of British Columbia / ababaian [AT] bccrc [DOT] com
 
 [Britt Drogemoller](http://t.co/f6qRW2ChTy) / University of British Columbia / [@brittdrog](https://twitter.com/brittdrog)
 
