@@ -1,4 +1,4 @@
-# Tentative Schedule* for a hackseq - the Vancouver Genomics Hackathon!
+# Schedule for hackseq 2016 - the Vancouver Genomics Hackathon!
 
 Saturday October 15 - Monday October 17, 2016
 
@@ -17,7 +17,6 @@ Room 1416 11am-6pm; Room 1330 2pm-8pm; LSC03 4pm-6pm
 
 If you tweet, please use #Hackseq16
 
-\* *Please note that this is a tentative schedule and therefore subject to change.*
 
 
 ## Saturday October 15
