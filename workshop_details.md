@@ -44,7 +44,7 @@ We are in the process of applying this method to other genes of clinical importa
 In the talk, I would go through the problem with SegDups, show the general bioinformatic method we developed, then show specific examples of genes, their read alignment issues, and the solution.
 
 Estimated time: 30-60 minutes
-Slides: Available later
+Slides: [Slides](https://drive.google.com/file/d/0BzEv14PEB1zeVWhLbS1ZNENNdFU/view?usp=sharing)
 
 ### Making R packages accessible to non-programmer collaborators using the VisRseq platform
 _Hamid Yournesy_
